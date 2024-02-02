@@ -1,0 +1,154 @@
+country,league,team,id
+deutschland,2_bundesliga,1. FC Kaiserslautern,1
+deutschland,2_bundesliga,Hannover 96,2
+deutschland,2_bundesliga,FC Hansa Rostock,3
+deutschland,2_bundesliga,Hansa Rostock,3
+deutschland,2_bundesliga,SV Wehen Wies.,4
+deutschland,2_bundesliga,SV Wehen Wiesbaden,4
+deutschland,2_bundesliga,VfL 1899 Osnabruck,5
+deutschland,2_bundesliga,VfL Osnabruck,5
+deutschland,2_bundesliga,Fortuna Dusseldorf,6
+deutschland,2_bundesliga,Eintr. Braunschweig,7
+deutschland,2_bundesliga,Eintracht Braunschweig,7
+deutschland,2_bundesliga,Greuther Furth,8
+deutschland,2_bundesliga,SpVgg Greuther Furth,8
+deutschland,2_bundesliga,Hamburger SV,9
+deutschland,2_bundesliga,1. FC Magdeburg,10
+deutschland,2_bundesliga,Karlsruher SC,11
+deutschland,2_bundesliga,1. FC Nurnberg,12
+deutschland,2_bundesliga,FC Schalke 04,13
+deutschland,2_bundesliga,FC St. Pauli,14
+deutschland,2_bundesliga,Hertha BSC,15
+deutschland,2_bundesliga,Hertha BSC Berlin,15
+deutschland,2_bundesliga,SC Paderborn 07,16
+deutschland,2_bundesliga,SV Elversberg,17
+deutschland,2_bundesliga,SV 07 Elversberg,17
+deutschland,2_bundesliga,SpVgg Elversberg 07,17
+deutschland,2_bundesliga,Holstein Kiel,18
+deutschland,3_liga,MSV Duisburg,1
+deutschland,3_liga,RW Essen,2
+deutschland,3_liga,Rot-Weiss Essen,2
+deutschland,3_liga,SC Verl,3
+deutschland,3_liga,SC Verl 1924,3
+deutschland,3_liga,SV Waldhof M.,4
+deutschland,3_liga,SV Waldhof Mannheim 07,4
+deutschland,3_liga,SV Waldhof Mannheim,4
+deutschland,3_liga,VfB Lubeck,5
+deutschland,3_liga,Arminia Bielefeld,6
+deutschland,3_liga,Borussia Dortmund II,7
+deutschland,3_liga,FC Ingolstadt,8
+deutschland,3_liga,FC Ingolstadt 04,8
+deutschland,3_liga,SV Sandhausen,9
+deutschland,3_liga,SpVgg Unterhaching,10
+deutschland,3_liga,Hallescher FC,11
+deutschland,3_liga,1. FC Saarbrucken,12
+deutschland,3_liga,FC Viktoria Koln,13
+deutschland,3_liga,FC Viktoria Cologne,13
+deutschland,3_liga,Jahn Regensburg,14
+deutschland,3_liga,SSV Jahn Regensburg,14
+deutschland,3_liga,SC Freiburg II,15
+deutschland,3_liga,SSV Ulm 1846,16
+deutschland,3_liga,Erzgebirge Aue,17
+deutschland,3_liga,FC Erzgebirge Aue,17
+deutschland,3_liga,Preussen 06 Munster,18
+deutschland,3_liga,SC Preussen Munster,18
+deutschland,3_liga,SC Preussen 06 Munster,18
+deutschland,3_liga,1860 Munchen,19
+deutschland,3_liga,TSV 1860 Munchen,19
+deutschland,3_liga,Dynamo Dresden,20
+deutschland,bundesliga,Bayern Munchen,1
+deutschland,bundesliga,FC Bayern Munchen,1
+deutschland,bundesliga,Eintracht Frankfurt,2
+deutschland,bundesliga,FC Augsburg,3
+deutschland,bundesliga,TSG 1899 Hoffenheim,4
+deutschland,bundesliga,TSG Hoffenheim,4
+deutschland,bundesliga,VfB Stuttgart,5
+deutschland,bundesliga,VfL Wolfsburg,6
+deutschland,bundesliga,Werder Bremen,7
+deutschland,bundesliga,SV Werder Bremen,7
+deutschland,bundesliga,Bayer Leverkusen,8
+deutschland,bundesliga,Union Berlin,9
+deutschland,bundesliga,1.FC Union Berlin,9
+deutschland,bundesliga,1. FC Union Berlin,9
+deutschland,bundesliga,Borussia Dortmund,10
+deutschland,bundesliga,1. FC Heidenheim,11
+deutschland,bundesliga,1. FC Heidenheim 1846,11
+deutschland,bundesliga,FSV Mainz 05,12
+deutschland,bundesliga,1. FSV Mainz 05,12
+deutschland,bundesliga,SC Freiburg,13
+deutschland,bundesliga,SV Darmstadt 98,14
+deutschland,bundesliga,VfL Bochum,15
+deutschland,bundesliga,1. FC Koln,16
+deutschland,bundesliga,RB Leipzig,17
+deutschland,bundesliga,Bor. M'gladbach,18
+deutschland,bundesliga,Borussia M'gladbach,18
+deutschland,bundesliga,Borussia M'Gladbach,18
+spanien,la_liga,UD Almeria,1
+spanien,la_liga,Real Sociedad,2
+spanien,la_liga,UD Las Palmas,3
+spanien,la_liga,FC Barcelona,4
+spanien,la_liga,RCD Mallorca,5
+spanien,la_liga,RC Celta de Vigo,6
+spanien,la_liga,Celta Vigo,6
+spanien,la_liga,Cadiz,7
+spanien,la_liga,Cadiz CF,7
+spanien,la_liga,FC Sevilla,8
+spanien,la_liga,Sevilla FC,8
+spanien,la_liga,Atletico Madrid,9
+spanien,la_liga,CF Getafe,10
+spanien,la_liga,FC Getafe,10
+spanien,la_liga,Getafe CF,10
+spanien,la_liga,Athletic Bilbao,11
+spanien,la_liga,CF Valencia,12
+spanien,la_liga,Valencia CF,12
+spanien,la_liga,Granada CF,13
+spanien,la_liga,Alaves,14
+spanien,la_liga,Deportivo Alaves,14
+spanien,la_liga,CD Alaves,14
+spanien,la_liga,Girona FC,15
+spanien,la_liga,Girona CF,15
+spanien,la_liga,Villarreal,16
+spanien,la_liga,CF Villarreal,16
+spanien,la_liga,Villarreal CF,16
+spanien,la_liga,CA Osasuna,17
+spanien,la_liga,Real Betis,18
+spanien,la_liga,Real Betis Balompie,18
+spanien,la_liga,Betis Sevilla,18
+spanien,la_liga,Real Madrid,19
+spanien,la_liga,Rayo Vallecano,20
+spanien,la_liga_2,SD Eibar,1
+spanien,la_liga_2,AD Alcorcon,2
+spanien,la_liga_2,FC Cartagena,3
+spanien,la_liga_2,Real Oviedo,4
+spanien,la_liga_2,UD Levante,5
+spanien,la_liga_2,Levante UD,5
+spanien,la_liga_2,CD Eldense,6
+spanien,la_liga_2,Club Dep. Eldense,6
+spanien,la_liga_2,Club Deportivo Eldense,6
+spanien,la_liga_2,CF Villarreal B,7
+spanien,la_liga_2,Villarreal CF B,7
+spanien,la_liga_2,FC Andorra,8
+spanien,la_liga_2,CF Burgos,9
+spanien,la_liga_2,Burgos CF,9
+spanien,la_liga_2,Sporting Gijon,10
+spanien,la_liga_2,Real Valladolid,11
+spanien,la_liga_2,CD Mirandes,12
+spanien,la_liga_2,Real Zaragoza,13
+spanien,la_liga_2,Real Saragossa,13
+spanien,la_liga_2,SD Amorebieta,14
+spanien,la_liga_2,CD Leganes,15
+spanien,la_liga_2,CD Tenerife,16
+spanien,la_liga_2,CD Teneriffa,16
+spanien,la_liga_2,Espanyol Barcelona,17
+spanien,la_liga_2,RCD Espanyol Barcelona,17
+spanien,la_liga_2,SD Huesca,18
+spanien,la_liga_2,CF Elche,19
+spanien,la_liga_2,Elche CF,19
+spanien,la_liga_2,Albacete Balompie,20
+spanien,la_liga_2,Albacete,20
+spanien,la_liga_2,Racing C. DE Ferrol,21
+spanien,la_liga_2,Racing de Ferrol,21
+spanien,la_liga_2,Racing Ferrol,21
+spanien,la_liga_2,Racing de Santander,22
+spanien,la_liga_2,Racing De Santander,22
+spanien,la_liga_2,Racing Santander,22

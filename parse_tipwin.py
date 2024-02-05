@@ -8,6 +8,7 @@ from datetime import datetime
 driver = webdriver.Chrome()
 
 driver.set_window_size(width=1920, height=1080)
+driver.set_window_size(width=1150, height=800)
 
 driver.get('https://www.tipwin.de/de/sports/full')
 
@@ -16,6 +17,8 @@ try:
     driver.find_element(By.CSS_SELECTOR, '[class*="popup__card"] button').click()
 except:
     pass
+
+driver.find_element(By.CSS_SELECTOR, '[class*="offer__body__row"]').text.split("\n")
 
 
 # Open Deutschland dropdown:

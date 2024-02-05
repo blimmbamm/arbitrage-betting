@@ -121,3 +121,12 @@ df = pd.concat([df, *df_combinations], axis=1)
 
 b = df.melt(id_vars=['date', 'id_home', 'id_guest', 'country', 'league'], value_vars=df.columns[df.columns.str.startswith("combination")], var_name="combination")
 b.sort_values("value", ascending=True)
+
+
+
+
+
+
+df_teams = pd.read_csv('https://docs.google.com/spreadsheets/d/e/2PACX-1vSe3KOFay3lo9mz9WHY7ZUGwNcEQgpsFqw8CiGoTehpLMAMdkUhnEDV3t5zrQ6vNgaRW0v9E0lhBlak/pub?gid=1018777580&single=true&output=csv')
+df_teams
+

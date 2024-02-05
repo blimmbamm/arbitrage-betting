@@ -14,12 +14,14 @@ locale.setlocale(locale.LC_ALL, 'de_DE')
 
 driver = webdriver.Chrome()
 # driver.implicitly_wait(1)
-
-
+driver.fullscreen_window()
+driver.maximize_window()
 driver.get('https://www.winamax.de/sportwetten/sports/1/32/37')
+driver.get('https://www.winamax.de/sportwetten/')
 driver.find_element(By.ID, value="tarteaucitronAllDenied2").click()
 # driver.find_elements(By.TAG_NAME, "button")
 driver.set_window_size(1920, 1080)
+driver.set_window_size(1000, 800)
 # driver.set_window_position(0, 0)
 driver.find_element(By.CSS_SELECTOR, '[data-testid="overlay"]').find_element(By.XPATH, value="./..").find_element(By.TAG_NAME, "button").click()
 
@@ -28,7 +30,8 @@ driver.find_element(By.CSS_SELECTOR, '[class*="selector-button"]').click()
 
 # Choose e.g. Resultat (index-based):
 resultat_index = 0
-driver.find_elements(By.CSS_SELECTOR, '[class*="selector-list"] > p')[4].click()
+index = [element.text for element in driver.find_elements(By.CSS_SELECTOR, '[class*="selector-list"] > p')].index('Resultat')
+driver.find_elements(By.CSS_SELECTOR, '[class*="selector-list"] > p')[index].click()
 
 # Open menu for actual market selection:
 driver.find_elements(By.CSS_SELECTOR, '[class*="selector-button"]')[1].click()
@@ -39,14 +42,16 @@ driver.find_elements(By.CSS_SELECTOR, '[class*="selector-list"] > p')[0].click()
 
 matches = driver.find_elements(By.CSS_SELECTOR, '[data-testid*="match-card"]')
 len(matches)
-len(matches[0].text.split("\n"))
+items = matches[0].text.split("\n")
+items = matches[1].text.split("\n")
+items
 match_text = matches[0].text
 
 [len(match.text.split("\n")) for match in matches]
 relevant_indices = [0, 1, 2, 5, 7]
 [extract_data(match.text, relevant_indices) for match in matches]
 
-
+[item for item in items if not any([pattern in item for pattern in ["-", "%", "LIVE"]])]
 
 
 def extract_data(match_text, relevant_indices):

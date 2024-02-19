@@ -12,7 +12,7 @@ import pandas as pd
 from re import sub
 from datetime import date, timedelta, datetime
 
-sub(pattern=r"\w{2} ", repl="", string="Fr 09.02.")
+
 class TipwinParser(BettingParser):
 
     driver: webdriver.Chrome
@@ -31,7 +31,7 @@ class TipwinParser(BettingParser):
         self.driver.get('https://www.tipwin.de/de/sports/full')
         time.sleep(1)
 
-    def date_string_to_date(self, date_string: str):
+    def date_string_to_date(self, date_string: str) -> date:
         if date_string == "Heute":
             return date.today()
         elif date_string == "Mrg":
@@ -77,14 +77,9 @@ class TipwinParser(BettingParser):
         league_menu_index = [element.text for element in self.driver.find_elements(By.CSS_SELECTOR, '[class*="nav--quaternary__link"] label')].index(config.config['league'])
         self.driver.find_elements(By.CSS_SELECTOR, '[class*="nav--quaternary__link"] label')[league_menu_index].click()
 
-        markets = self.get_markets(config=config, only_teams=only_teams)
 
-        # [self.parse_market(market) for market in markets]
-        df = pd.concat([self.parse_market(market).set_index(['date', 'home', 'guest']) for market in markets], axis=1).reset_index(drop=False)
-        
-        df['date'] = df['date'].str.strip().apply(self.date_string_to_date)
+        return self.parse_markets(config=config, only_teams=only_teams)
 
-        return self.add_additional_information(df, config=config)
 
     
     def parse(self, configs: List[Config], only_teams: bool = False) -> List[DataFrame]:

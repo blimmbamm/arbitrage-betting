@@ -5,10 +5,10 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.select import Select
 import pandas as pd
 import time
-from datetime import datetime
+from re import findall
+from datetime import date
 from config import Config
 
-# from util import normalize_data
 from betting_parser import BettingParser
 
 
@@ -26,16 +26,21 @@ class TipicoParser(BettingParser):
         self.driver.find_element(By.ID, '_evidon-accept-button').click()
         self.driver.implicitly_wait(0)
         
-        # try:
-        #     self.driver.find_element(By.ID, '_evidon-accept-button').click()
-        # except:
-        #     pass
         print('Parser ready')
     
+    def date_string_to_date(self, date_string: str) -> date:
+        date.today()
+        if date_string == "Heute":
+            return date.today()
+        else:
+            day, month = findall(pattern=r"(\d{2}).(\d{2})", string=date_string)[0]
+            return date(date.today().year, int(month), int(day))
+            
+
 
     def parse_single(self, config: Config, only_teams: bool = False) -> DataFrame:
         # 1. Navigieren
-        self.driver.get(f'https://sports.tipico.de/de/alle/{config.sports}/{config.country}/{config.league}')
+        self.driver.get(config.config['url'])
                       
         time.sleep(1)
 
@@ -48,20 +53,8 @@ class TipicoParser(BettingParser):
             pass
 
         # 4. market config durchlaufen   
-        # markets = self.markets[config.sports][:1] if only_teams else self.markets[config.sports]
-        markets = self.get_markets(config=config, only_teams=only_teams)
-        
-        df = pd.concat([self.parse_market(market).set_index(['date', 'home', 'guest']) for market in markets], axis=1) \
-            .reset_index(inplace=False)
-        # markets = [market_odds.set_index(['date', 'home', 'guest']) for market_odds in markets_odds]
+        return self.parse_markets(config=config, only_teams=only_teams)
 
-        # df = pd.concat(markets, axis=1).reset_index(inplace=False)
-        df["date"] = df["date"].str.replace(pat=r"\w*, ", repl="", regex=True) \
-            .str.replace(pat="Heute", repl=datetime.today().strftime(r"%d.%m")) \
-            .apply(lambda value: datetime.strptime(value + "." + str(datetime.today().year), "%d.%m.%Y").date())        
-        
-        return self.add_additional_information(df, config)
-    
 
 
     def parse_event(self, event_element, odds_headers):
@@ -104,6 +97,7 @@ class TipicoParser(BettingParser):
         return pd.DataFrame.from_records(results)
 
     def parse(self, configs: List[Config], only_teams: bool = False) -> List[DataFrame]:
+        
         return [self.parse_single(config=config, only_teams=only_teams) for config in configs]
 
 

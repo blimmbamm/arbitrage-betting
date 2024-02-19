@@ -1,0 +1,10 @@
+- Market in DB einpflegen
+- Parser optimieren, s.d. schneller, u.a. Beschränkung auf Hauptmarkt
+- Check einbauen, der prüft ob für alle Kombinationen aus den Configs das Teammapping vorhanden ist
+- Parser sollen automatisch nacheinander durchlaufen, d.h. sie müssen irgendwie vereint werden in einem einzigen Parser, ggf. müssen dann Configs sinnvoll sortiert werden
+- Parsing-Durchlauf soll Retries machen, d.h. erfolgreiche Durchläufe speichern und nicht erfolgreiche wiederholen 
+- automatischen Check auf erfolgreich durchlaufene Config implementieren
+- Ebene der Liga aus Teams Mapping entfernen, s.d. das Mapping nach Saisonwechsel gültig bleibt
+- An einer Stelle checken, ob Teamnamen erfolgreich gejoint wurden, ansonsten evtl. darauf hinweisen, dass mit dem Teammapping etwas nicht stimmt
+- GUI bauen mit React und Flask?!
+- Implizite Waits durch explizite Timeouts ersetzen, s.d. try/catch nicht zu früh in catch geht; dann parsing-Methode ummanteln mit try/catch

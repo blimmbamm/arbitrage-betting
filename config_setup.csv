@@ -1,0 +1,57 @@
+﻿bookmaker;sports;country;league;config_url;config_sports;config_country;config_league
+tipico;fussball;deutschland;bundesliga;https://sports.tipico.de/de/alle/fussball/deutschland/bundesliga;;;
+tipico;fussball;deutschland;2_bundesliga;https://sports.tipico.de/de/alle/fussball/deutschland/2-bundesliga;;;
+tipico;fussball;deutschland;3_liga;https://sports.tipico.de/de/alle/fussball/deutschland/3-liga;;;
+tipico;fussball;spanien;la_liga;https://sports.tipico.de/de/alle/fussball/spanien/la-liga;;;
+tipico;fussball;spanien;la_liga_2;https://sports.tipico.de/de/alle/fussball/spanien/la-liga-2;;;
+tipico;fussball;england;premier_league;https://sports.tipico.de/de/alle/fussball/england/premier-league;;;
+tipico;fussball;england;championship;https://sports.tipico.de/de/alle/fussball/england/championship;;;
+tipico;fussball;england;league_one;https://sports.tipico.de/de/alle/fussball/england/league-one;;;
+tipico;fussball;italien;serie_a;https://sports.tipico.de/de/alle/fussball/italien/serie-a;;;
+tipico;fussball;italien;serie_b;https://sports.tipico.de/de/alle/fussball/italien/serie-b;;;
+tipico;fussball;portugal;primeira_liga;https://sports.tipico.de/de/alle/fussball/portugal/primeira-liga;;;
+tipico;fussball;portugal;segunda_liga;https://sports.tipico.de/de/alle/fussball/portugal/segunda-liga;;;
+tipico;fussball;frankreich;ligue_1;https://sports.tipico.de/de/alle/fussball/frankreich/ligue-1;;;
+tipico;fussball;frankreich;ligue_2;https://sports.tipico.de/de/alle/fussball/frankreich/ligue-2;;;
+tipwin;fussball;deutschland;bundesliga;;Fussball;Deutschland;Bundesliga
+tipwin;fussball;deutschland;2_bundesliga;;Fussball;Deutschland;2. Bundesliga
+tipwin;fussball;deutschland;3_liga;;Fussball;Deutschland;3. Liga
+tipwin;fussball;spanien;la_liga;;Fussball;Spanien;La Liga
+tipwin;fussball;spanien;la_liga_2;;Fussball;Spanien;La Liga 2
+tipwin;fussball;england;premier_league;;Fussball;England;Premier League
+tipwin;fussball;england;championship;;Fussball;England;Championship
+tipwin;fussball;england;league_one;;Fussball;England;League One
+tipwin;fussball;italien;serie_a;;Fussball;Italien;Serie A
+tipwin;fussball;italien;serie_b;;Fussball;Italien;Serie B
+tipwin;fussball;portugal;primeira_liga;;Fussball;Portugal;Primeira Liga
+tipwin;fussball;portugal;segunda_liga;;Fussball;Portugal;Segunda Liga
+tipwin;fussball;frankreich;ligue_1;;Fussball;Frankreich;Ligue 1
+tipwin;fussball;frankreich;ligue_2;;Fussball;Frankreich;Ligue 2
+winamax;fussball;deutschland;bundesliga;https://www.winamax.de/sportwetten/sports/1/30/42;;;
+winamax;fussball;deutschland;2_bundesliga;https://www.winamax.de/sportwetten/sports/1/30/41;;;
+winamax;fussball;deutschland;3_liga;https://www.winamax.de/sportwetten/sports/1/30/8343;;;
+winamax;fussball;spanien;la_liga;https://www.winamax.de/sportwetten/sports/1/32/36;;;
+winamax;fussball;spanien;la_liga_2;https://www.winamax.de/sportwetten/sports/1/32/37;;;
+winamax;fussball;england;premier_league;https://www.winamax.de/sportwetten/sports/1/1/1;;;
+winamax;fussball;england;championship;https://www.winamax.de/sportwetten/sports/1/1/2;;;
+winamax;fussball;england;league_one;https://www.winamax.de/sportwetten/sports/1/1/3;;;
+winamax;fussball;italien;serie_a;https://www.winamax.de/sportwetten/sports/1/31/33;;;
+winamax;fussball;italien;serie_b;https://www.winamax.de/sportwetten/sports/1/31/34;;;
+winamax;fussball;portugal;primeira_liga;https://www.winamax.de/sportwetten/sports/1/44/52;;;
+winamax;fussball;portugal;segunda_liga;https://www.winamax.de/sportwetten/sports/1/44/280;;;
+winamax;fussball;frankreich;ligue_1;https://www.winamax.de/sportwetten/sports/1/7/4;;;
+winamax;fussball;frankreich;ligue_2;https://www.winamax.de/sportwetten/sports/1/7/19;;;
+bet3000;fussball;deutschland;bundesliga;;Fußball;Deutschland;Bundesliga
+bet3000;fussball;deutschland;2_bundesliga;;Fußball;Deutschland;2. Bundesliga
+bet3000;fussball;deutschland;3_liga;;Fußball;Deutschland;3. Liga
+bet3000;fussball;spanien;la_liga;;Fußball;Spanien;La Liga
+bet3000;fussball;spanien;la_liga_2;;Fußball;Spanien;La Liga 2
+bet3000;fussball;england;premier_league;;Fußball;England;Premier League
+bet3000;fussball;england;championship;;Fußball;England;Championship
+bet3000;fussball;england;league_one;;Fußball;England;League One
+bet3000;fussball;italien;serie_a;;Fußball;Italien;Serie A
+bet3000;fussball;italien;serie_b;;Fußball;Italien;Serie B
+bet3000;fussball;portugal;primeira_liga;;Fußball;Portugal;Primeira Liga
+bet3000;fussball;portugal;segunda_liga;;Fußball;Portugal;Segunda Liga
+bet3000;fussball;frankreich;ligue_1;;Fußball;Frankreich;Ligue 1
+bet3000;fussball;frankreich;ligue_2;;Fußball;Frankreich;Ligue 2

@@ -1,0 +1,281 @@
+sports,country,league,id,team
+fussball,deutschland,2_bundesliga,1,1. FC Kaiserslautern
+fussball,deutschland,2_bundesliga,2,Hannover 96
+fussball,deutschland,2_bundesliga,3,FC Hansa Rostock
+fussball,deutschland,2_bundesliga,4,SV Wehen
+fussball,deutschland,2_bundesliga,5,VfL 1899 Osnabruck
+fussball,deutschland,2_bundesliga,6,Fort. Dusseldorf
+fussball,deutschland,2_bundesliga,7,Braunschweig
+fussball,deutschland,2_bundesliga,8,Greuther Furth
+fussball,deutschland,2_bundesliga,9,Hamburger SV
+fussball,deutschland,2_bundesliga,10,1. FC Magdeburg
+fussball,deutschland,2_bundesliga,11,Karlsruher SC
+fussball,deutschland,2_bundesliga,12,1. FC Nurnberg
+fussball,deutschland,2_bundesliga,13,FC Schalke 04
+fussball,deutschland,2_bundesliga,14,FC St. Pauli
+fussball,deutschland,2_bundesliga,15,Hertha BSC
+fussball,deutschland,2_bundesliga,16,SC Paderborn
+fussball,deutschland,2_bundesliga,17,Elversberg
+fussball,deutschland,2_bundesliga,18,Holstein Kiel
+fussball,deutschland,3_liga,1,MSV Duisburg
+fussball,deutschland,3_liga,2,RW Essen
+fussball,deutschland,3_liga,3,SC Verl
+fussball,deutschland,3_liga,4,SV Waldhof M.
+fussball,deutschland,3_liga,5,VfB Lubeck
+fussball,deutschland,3_liga,6,Arm. Bielefeld
+fussball,deutschland,3_liga,7,Borussia Dortmund II
+fussball,deutschland,3_liga,8,FC Ingolstadt
+fussball,deutschland,3_liga,9,SV Sandhausen
+fussball,deutschland,3_liga,10,SpVgg Unterhaching
+fussball,deutschland,3_liga,11,Hallescher FC
+fussball,deutschland,3_liga,12,1. FC Saarbrucken
+fussball,deutschland,3_liga,13,FC Viktoria Cologne
+fussball,deutschland,3_liga,14,Jahn Regensburg
+fussball,deutschland,3_liga,15,Freiburg II
+fussball,deutschland,3_liga,16,SSV Ulm
+fussball,deutschland,3_liga,17,Erzgebirge Aue
+fussball,deutschland,3_liga,18,Preussen 06 Munster
+fussball,deutschland,3_liga,19,1860 Munchen
+fussball,deutschland,3_liga,20,Dynamo Dresden
+fussball,deutschland,bundesliga,1,Bayern Munchen
+fussball,deutschland,bundesliga,2,Eintracht Frankfurt
+fussball,deutschland,bundesliga,3,FC Augsburg
+fussball,deutschland,bundesliga,4,Hoffenheim
+fussball,deutschland,bundesliga,5,VfB Stuttgart
+fussball,deutschland,bundesliga,6,VfL Wolfsburg
+fussball,deutschland,bundesliga,7,SV Werder Bremen
+fussball,deutschland,bundesliga,8,Bayer Leverkusen
+fussball,deutschland,bundesliga,9,1. FC Union Berlin
+fussball,deutschland,bundesliga,10,Bor. Dortmund
+fussball,deutschland,bundesliga,11,1. FC Heidenheim
+fussball,deutschland,bundesliga,12,1. FSV Mainz 05
+fussball,deutschland,bundesliga,13,SC Freiburg
+fussball,deutschland,bundesliga,14,SV Darmstadt
+fussball,deutschland,bundesliga,15,VfL Bochum
+fussball,deutschland,bundesliga,16,1. FC Koln
+fussball,deutschland,bundesliga,17,RB Leipzig
+fussball,deutschland,bundesliga,18,Bor. M Gladbach
+fussball,england,championship,0,Sheffield Wed.
+fussball,england,championship,1,Ipswich
+fussball,england,championship,2,Blackburn
+fussball,england,championship,3,Cardiff
+fussball,england,championship,4,FC Watford
+fussball,england,championship,5,Hull City
+fussball,england,championship,6,Leeds United
+fussball,england,championship,7,Middlesbrough
+fussball,england,championship,8,QP Rangers
+fussball,england,championship,9,Southampton
+fussball,england,championship,10,FC Sunderland
+fussball,england,championship,11,Coventry City
+fussball,england,championship,12,Birmingham
+fussball,england,championship,13,Leicester
+fussball,england,championship,14,Norwich City
+fussball,england,championship,15,Rotherham
+fussball,england,championship,16,Swansea
+fussball,england,championship,17,Bristol City
+fussball,england,championship,18,West Bromwich
+fussball,england,championship,19,Huddersfield
+fussball,england,championship,20,Plymouth
+fussball,england,championship,21,Preston
+fussball,england,championship,22,Stoke City
+fussball,england,championship,23,Millwall
+fussball,england,league_one,0,Blackpool
+fussball,england,league_one,1,Bristol Rovers
+fussball,england,league_one,2,Cambridge United
+fussball,england,league_one,3,Carlisle United
+fussball,england,league_one,4,Derby County
+fussball,england,league_one,5,Barnsley
+fussball,england,league_one,6,FC Reading
+fussball,england,league_one,7,Lincoln City
+fussball,england,league_one,8,Northampton
+fussball,england,league_one,9,Port Vale
+fussball,england,league_one,10,Wigan
+fussball,england,league_one,11,Wycombe
+fussball,england,league_one,12,Oxford United
+fussball,england,league_one,13,Burton Albion
+fussball,england,league_one,14,Cheltenham
+fussball,england,league_one,15,Portsmouth
+fussball,england,league_one,16,Shrewsbury
+fussball,england,league_one,17,Leyton Orient
+fussball,england,league_one,18,Charlton
+fussball,england,league_one,19,Fleetwood
+fussball,england,league_one,20,Bolton
+fussball,england,league_one,21,Stevenage
+fussball,england,league_one,22,Exeter City
+fussball,england,league_one,23,Peterborough
+fussball,england,premier_league,0,Man City
+fussball,england,premier_league,1,FC Fulham
+fussball,england,premier_league,2,FC Liverpool
+fussball,england,premier_league,3,Luton Town
+fussball,england,premier_league,4,Tottenham
+fussball,england,premier_league,5,Wolverhampton
+fussball,england,premier_league,6,Nottingham
+fussball,england,premier_league,7,West Ham
+fussball,england,premier_league,8,Aston Villa
+fussball,england,premier_league,9,Crystal Palace
+fussball,england,premier_league,10,Brentford
+fussball,england,premier_league,11,Burnley FC
+fussball,england,premier_league,12,Newcastle
+fussball,england,premier_league,13,Sheffield United
+fussball,england,premier_league,14,Everton FC
+fussball,england,premier_league,15,AFC Bournemouth
+fussball,england,premier_league,16,Brighton
+fussball,england,premier_league,17,Arsenal FC
+fussball,england,premier_league,18,Manchester United
+fussball,england,premier_league,19,Chelsea FC
+fussball,frankreich,ligue_1,0,Olym. Marseille
+fussball,frankreich,ligue_1,1,RC Lens
+fussball,frankreich,ligue_1,2,Paris SG
+fussball,frankreich,ligue_1,3,AC Havre
+fussball,frankreich,ligue_1,4,Clermont Foot
+fussball,frankreich,ligue_1,5,FC Lorient
+fussball,frankreich,ligue_1,6,FC Toulouse
+fussball,frankreich,ligue_1,7,Montpellier
+fussball,frankreich,ligue_1,8,OGC Nice
+fussball,frankreich,ligue_1,9,Olym. Lyon
+fussball,frankreich,ligue_1,10,LOSC Lille
+fussball,frankreich,ligue_1,11,FC Nantes
+fussball,frankreich,ligue_1,12,RC Strassburg
+fussball,frankreich,ligue_1,13,AS Monaco
+fussball,frankreich,ligue_1,14,FC Stade Rennes
+fussball,frankreich,ligue_1,15,Stade Reims
+fussball,frankreich,ligue_1,16,Stade Brest
+fussball,frankreich,ligue_1,17,FC Metz
+fussball,frankreich,ligue_2,0,AJ Auxerre
+fussball,frankreich,ligue_2,1,AC Ajaccio
+fussball,frankreich,ligue_2,2,Bordeaux
+fussball,frankreich,ligue_2,3,Annecy FC
+fussball,frankreich,ligue_2,4,Paris FC
+fussball,frankreich,ligue_2,5,Rodez Aveyron
+fussball,frankreich,ligue_2,6,SM Caen
+fussball,frankreich,ligue_2,7,Quevilly - Rouen
+fussball,frankreich,ligue_2,8,Valenciennes
+fussball,frankreich,ligue_2,9,AS Saint Etienne
+fussball,frankreich,ligue_2,10,Angers SCO
+fussball,frankreich,ligue_2,11,EA Guingamp
+fussball,frankreich,ligue_2,12,Grenoble Foot
+fussball,frankreich,ligue_2,13,Concarneau
+fussball,frankreich,ligue_2,14,Pau FC
+fussball,frankreich,ligue_2,15,Dunkerque
+fussball,frankreich,ligue_2,16,Amiens SC
+fussball,frankreich,ligue_2,17,SC Bastia
+fussball,frankreich,ligue_2,18,Laval
+fussball,frankreich,ligue_2,19,ESTAC Troyes
+fussball,italien,serie_a,0,Salernitana
+fussball,italien,serie_a,1,Cagliari
+fussball,italien,serie_a,2,AS Rom
+fussball,italien,serie_a,3,US Sassuolo
+fussball,italien,serie_a,4,AC Florenz
+fussball,italien,serie_a,5,Bologna
+fussball,italien,serie_a,6,AC Monza
+fussball,italien,serie_a,7,Genoa CFC
+fussball,italien,serie_a,8,AC Mailand
+fussball,italien,serie_a,9,Juventus
+fussball,italien,serie_a,10,FC Turin
+fussball,italien,serie_a,11,Inter Mailand
+fussball,italien,serie_a,12,SSC Napoli
+fussball,italien,serie_a,13,Hellas Verona
+fussball,italien,serie_a,14,Atalanta Bergamo
+fussball,italien,serie_a,15,Lazio Rom
+fussball,italien,serie_a,16,Udinese
+fussball,italien,serie_a,17,Empoli FC
+fussball,italien,serie_a,18,Frosinone
+fussball,italien,serie_a,19,US Lecce
+fussball,italien,serie_b,0,Calcio Como
+fussball,italien,serie_b,1,AS Cittadella
+fussball,italien,serie_b,2,FC Sudtirol
+fussball,italien,serie_b,3,AC Feralpisalo
+fussball,italien,serie_b,4,FC Modena
+fussball,italien,serie_b,5,Cremonese
+fussball,italien,serie_b,6,AC Pisa 1909
+fussball,italien,serie_b,7,AS Bari
+fussball,italien,serie_b,8,US Catanzaro
+fussball,italien,serie_b,9,Ternana
+fussball,italien,serie_b,10,Brescia
+fussball,italien,serie_b,11,Parma
+fussball,italien,serie_b,12,FC Venedig
+fussball,italien,serie_b,13,Palermo
+fussball,italien,serie_b,14,Cosenza
+fussball,italien,serie_b,15,AC Reggiana
+fussball,italien,serie_b,16,Sampdoria
+fussball,italien,serie_b,17,Calcio Lecco
+fussball,italien,serie_b,18,Ascoli
+fussball,italien,serie_b,19,Spezia Calcio
+fussball,portugal,primeira_liga,0,CF Estrela
+fussball,portugal,primeira_liga,1,SC Farense
+fussball,portugal,primeira_liga,2,Moreirense
+fussball,portugal,primeira_liga,3,Boavista
+fussball,portugal,primeira_liga,4,Rio Ave
+fussball,portugal,primeira_liga,5,Sporting CP
+fussball,portugal,primeira_liga,6,Vit. Guimaraes
+fussball,portugal,primeira_liga,7,FC Arouca
+fussball,portugal,primeira_liga,8,FC Gil Vicente
+fussball,portugal,primeira_liga,9,Portimonense
+fussball,portugal,primeira_liga,10,FC Famalicao
+fussball,portugal,primeira_liga,11,Chaves
+fussball,portugal,primeira_liga,12,Estoril
+fussball,portugal,primeira_liga,13,Casa Pia
+fussball,portugal,primeira_liga,14,SC Braga
+fussball,portugal,primeira_liga,15,Benfica Lissabon
+fussball,portugal,primeira_liga,16,FC Porto
+fussball,portugal,primeira_liga,17,FC Vizela
+fussball,portugal,segunda_liga,0,Oliveirense
+fussball,portugal,segunda_liga,1,Acad. Viseu
+fussball,portugal,segunda_liga,2,CD Nacional
+fussball,portugal,segunda_liga,3,Benfica 2
+fussball,portugal,segunda_liga,4,AVS Futebol SAD
+fussball,portugal,segunda_liga,5,FC Pacos Ferreira
+fussball,portugal,segunda_liga,6,CF Belenenses
+fussball,portugal,segunda_liga,7,FC Porto 2
+fussball,portugal,segunda_liga,8,CD Santa Clara
+fussball,portugal,segunda_liga,9,SCU Torreense
+fussball,portugal,segunda_liga,10,FC Penafiel
+fussball,portugal,segunda_liga,11,Vilaverdense
+fussball,portugal,segunda_liga,12,Leixoes
+fussball,portugal,segunda_liga,13,UD Leiria
+fussball,portugal,segunda_liga,14,CS Maritimo
+fussball,portugal,segunda_liga,15,CD Tondela
+fussball,portugal,segunda_liga,16,CD Mafra
+fussball,portugal,segunda_liga,17,CD Feirense
+fussball,spanien,la_liga,1,UD Almeria
+fussball,spanien,la_liga,2,Real Sociedad
+fussball,spanien,la_liga,3,Las Palmas
+fussball,spanien,la_liga,4,FC Barcelona
+fussball,spanien,la_liga,5,RCD Mallorca
+fussball,spanien,la_liga,6,Celta Vigo
+fussball,spanien,la_liga,7,Cadiz
+fussball,spanien,la_liga,8,FC Sevilla
+fussball,spanien,la_liga,9,Atletico Madrid
+fussball,spanien,la_liga,10,CF Getafe
+fussball,spanien,la_liga,11,Athl. Bilbao
+fussball,spanien,la_liga,12,CF Valencia
+fussball,spanien,la_liga,13,FC Granada
+fussball,spanien,la_liga,14,Alaves
+fussball,spanien,la_liga,15,FC Girona
+fussball,spanien,la_liga,16,CF Villarreal
+fussball,spanien,la_liga,17,CA Osasuna
+fussball,spanien,la_liga,18,Betis Sevilla
+fussball,spanien,la_liga,19,Real Madrid
+fussball,spanien,la_liga,20,Rayo Vallecano
+fussball,spanien,la_liga_2,1,SD Eibar
+fussball,spanien,la_liga_2,2,AD Alcorcon
+fussball,spanien,la_liga_2,3,Cartagena
+fussball,spanien,la_liga_2,4,Real Oviedo
+fussball,spanien,la_liga_2,5,Levante
+fussball,spanien,la_liga_2,6,CD Eldense
+fussball,spanien,la_liga_2,7,CF Villarreal B
+fussball,spanien,la_liga_2,8,FC Andorra
+fussball,spanien,la_liga_2,9,Burgos CF
+fussball,spanien,la_liga_2,10,Sporting Gijon
+fussball,spanien,la_liga_2,11,Real Valladolid
+fussball,spanien,la_liga_2,12,CD Mirandes
+fussball,spanien,la_liga_2,13,Real Saragossa
+fussball,spanien,la_liga_2,14,SD Amorebieta
+fussball,spanien,la_liga_2,15,CD Leganes
+fussball,spanien,la_liga_2,16,CD Tenerife
+fussball,spanien,la_liga_2,17,Espanyol
+fussball,spanien,la_liga_2,18,SD Huesca
+fussball,spanien,la_liga_2,19,CF Elche
+fussball,spanien,la_liga_2,20,Albacete
+fussball,spanien,la_liga_2,21,Racing C. DE Ferrol
+fussball,spanien,la_liga_2,22,Racing De Santander
